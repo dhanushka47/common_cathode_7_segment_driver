@@ -1,4 +1,4 @@
-# common cathode 7 segment driver
+# common cathode 7 segment driver simulate using NI Multisim
 common cathode seven segment display driver using CD4511 IC and multisim  simulation
 
 
